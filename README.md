@@ -1,15 +1,9 @@
-# Bitfari / Stacks 2.0 Explorer
+# Bitfari Blockchain Explorer / Stacks 2.0 Explorer for Bitfari
 
-![CI/CD](https://github.com/blockstack/explorer/actions/workflows/ci.yml/badge.svg)
-
-| Environment | Status                                                                                                                                                            |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Prod        | [![Prod App Status](https://argocd.blockstack.xyz/api/badge?name=prod.explorer&revision=true)](https://argocd.blockstack.xyz/applications/prod.explorer)          |
-| Staging     | [![Staging App Status](https://argocd.blockstack.xyz/api/badge?name=staging.explorer&revision=true)](https://argocd.blockstack.xyz/applications/staging.explorer) |
 
 ### Getting started
 
-The Stacks Explorer is built with react, [next.js](https://github.com/zeit/next.js) and [@stacks/ui](https://github.com/blockstack/ui). To run the explorer locally, you can clone this repo and install the dependencies needed. Make sure you have `yarn` installed.
+The Bitfari Blockchain Explorer is built with react, [next.js](https://github.com/zeit/next.js) and [@stacks/ui](https://github.com/blockstack/ui). To run the explorer locally, you can clone this repo and install the dependencies needed. Make sure you have `yarn` installed.
 
 ```sh
 yarn
