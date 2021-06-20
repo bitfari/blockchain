@@ -1,6 +1,5 @@
-# Stacks 2.0 Explorer
+# Bitfari / Stacks 2.0 Explorer
 
-![An image of the Stacks Explorer](/explorer-image.png 'Stacks Explorer')
 ![CI/CD](https://github.com/blockstack/explorer/actions/workflows/ci.yml/badge.svg)
 
 | Environment | Status                                                                                                                                                            |
